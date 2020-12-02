@@ -1,0 +1,14 @@
+{
+  "name": "web-sockets-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./01-socket-server-basic/index.js"
+  },
+  "repository": "git@github.com:ggonzalezh/web-sockets-learning.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.3"
+  }
+}
